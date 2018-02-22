@@ -46,6 +46,15 @@
     justify-content: space-between;
   
 }
+.portfolio{
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    justify-content: space-around;
+    margin: 2.5%;
+
+
+}
 
 
 .footer{
